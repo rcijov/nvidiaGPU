@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy ByPass -File patcher.ps1 C:\NVIDIA\DisplayDriver\384.94\Win10_64\International\Display.Driver
